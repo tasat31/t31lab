@@ -1,17 +1,29 @@
-# Welcome to MkDocs
+# Software developing tips for RF engineer
+## Overviews
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+For RF engineers to study both hard-wired and software-defined,  
+we give some hints about below:
 
-## Commands
+* AI
+* IoT
+* Big Data Analysis
+* Cognitive Machine(Reconfigurable device, ex. SDR)
+ 
+Not only fundamentals but also Interface Techs for system integrations.
+Get well inspired, and good luck for your project!! 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+## Artifacts of tasat31 studying
 
-## Project layout
+* django
+* osmc
+* Arm cortex and FPGA or DRP
+* Software Defined Radio
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Appendix 
+
+* Web design(Bootstrap and w3school) 
+
+## Our projects
+
+* Vrapid
+
