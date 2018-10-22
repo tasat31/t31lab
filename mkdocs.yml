@@ -1,7 +1,8 @@
 site_name: tasat31 
-nav:
-  - Home: index.md
-  - About: about.md
+site_description: Electromagnetic Radiated Over the World Enrichs our Lives.
+
+repo_url: https://github.com/tasat31
+
 theme:
   name: 'material'
   palette:
@@ -12,3 +13,15 @@ theme:
     code: 'Ubuntu Mono'
   logo:
     icon: 'radio'
+
+pages:
+  - Home: 'index.md'
+  - 'Guide Book':
+    - 'Django'  : 'django/index.md'
+    - 'OSMC'    : 'osmc/index.md'
+    - 'Arm cortex and FPGA or DRP' : 'armcortex/index.md'
+    - 'OpenRISC': 'openrisc/index.md'
+    - 'SDR'     : 'sdr/index.md'
+
+  - About: 'about.md'
+
