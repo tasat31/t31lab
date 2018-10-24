@@ -14,11 +14,11 @@ Get well inspired, and good luck for your project!!
 
 ## Guide Book 
 
-* Django
+* Python and Django
 * OSMC
-* Arm cortex and FPGA or DRP
+* ARM and Accelerator
 * OpenRISC
-* Software Defined Radio
+* SDR as Cognitive machines
 
 ## Appendix 
 
