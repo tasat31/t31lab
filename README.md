@@ -4,6 +4,8 @@ mkdocs, version 0.17.5
 
 ### Deploying
 
-git clone ...
+$ git clone https://github.com/tasat31/t31lab.git
 
-mkdocs build
+$ mkdocs build
+
+You can see "site" directory and copy it.
