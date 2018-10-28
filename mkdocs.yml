@@ -18,10 +18,15 @@ pages:
   - Home: 'index.md'
   - 'Guide Book':
     - 'Python and Django'  : 'django/index.md'
-    - 'OSMC'    : 'osmc/index.md'
+    - 'OSMC on Raspberry Pi'  : 'osmc/index.md'
     - 'ARM and Accelerator' : 'armaccel/index.md'
-    - 'OpenRISC': 'openrisc/index.md'
+    - 'Open Source CPU': 'openrisc/index.md'
     - 'SDR as Cognitive machines'     : 'sdr/index.md'
+
+  - Appendix:
+    - 'Quick reference for Web design': appendix/webdesign/index.md
+    - 'RLT-SDR and LuaRadio': appendix/luasdr/index.md
+    - 'Radio Communicaiton Technology': appendix/radiotech/index.md
 
   - About: 'about.md'
 

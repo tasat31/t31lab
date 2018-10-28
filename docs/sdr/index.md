@@ -1,24 +1,29 @@
-# Python and Django for IoT Solutions
+# SDR as Cognitive machines
 ## Overviews
 
-A lot of IoT's prevailing on the Web all over the world, 
-it is great deal to learn Web framework system and you can achieve:
+It is our goal to develop Software Defined Radio(SDR), and to make the SDR behave as Cognitive machines.
 
-* Rapid prototyping
-* Saving developing time
+SDR is not only for Radio Frequency, but also for replacement of hard-wired electronic device.
 
+Similar to a human brain, AI is required to be flexible and predictable in every condition and event of actual world.
+The most optimal approach is selected for resolving solutions rapidly and correctly. We think that cognitive machines is equipped with such characteristics.
+By this feature, cognitive machines can select Support Vector, Convolutional Nueral Network by convolutional layer or pooling layers, of many deep learning methods.
 
+It is nonsense for you to ask which AI methods is best. That is why you can apply all the useful methods optimally through implementing SDR as Cognitive machines.
+
+We can do it.
+ 
 ## Guide Book 
 
-1. Setting up
+1. Install and Setting
    1. 
    2. 
 
-2. Coding
+2. Design and Coding
    1. 
    2. 
 
-3. Debug
+3. Develop and Debug
    1. 
    2. 
 

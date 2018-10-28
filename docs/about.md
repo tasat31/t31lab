@@ -1,65 +1,30 @@
 # About this site
 
-## Conception of Tasat31
+## Conception of tasat31
 
-Tasat31 is abbreviated from "**Ta**chibana **Sat**telite"(likely as Inmarsat).
-Tasat31 is one of our dream projects for the next generation.
-But still it is just in the phase of conception as below:
- 
-* Multi purpose and multi bands applications
-* Software defined Radio on board could be configurated from sattelite earth stations.
-* Cognitive machine on board could response some requests on demand.
-* User could access through user-friendly web application.
+Tasat31 is abbreviated from "Tachibana Sattelite"(likely as Inmarsat). Tasat31 is one of our dream projects for the next generation. But still it is just in the phase of conception.
+
+In my younger days, I had a dream to work with satelite technologies.
+However, for operating satelite systems, not only tremendous technologies and knowledges, but also great amount of fund are needed.
+I have lacked these resource, and been giving up.
+
+One day, I was inspired that it is good wisdom to deal my project with Open Source Software. Nowadays, it is clear and obvious for many developers to success their projects through Open Soure Software.
+
+I will do it in the same way. By the approach of Open Source Software, I will devote my efforts to the core communication system of an artificial satelite. This system would be implemented by SDR as cognitive machines.
+
+If you would equipped SDR as cognitive machines on board of the satelite, you could achive the merits like below:
+
+* Boarding Multi-purposes and bands applications at one time
+* Software defined Radio on board could be configurated from sattelite earth stations
+* Cognitive machine on board could response some requests on demand
+* Many users could access through user-friendly web application
+* Improving efficiency of using computer resource, and reducing idle time of hard-wired circuit
+
+These merits are suggested that you launch the satelite at one time, the satelite plays various roles on the orbit and you can dynamically change its functions.
+
+This is the purpose of tasat31.
+
+## Contributing
 
 
-    upnpKilohertz.ugc_modifier_station.storageZebibyteMiddleware(
-            system_systray_repeater, rtf);
-    rw_memory(sector);
-    ultraClick /= pop(scan_latency_dv, 3 - -2) - biosOle * matrix_zettabyte;
-    if (directAtm + 2 + oem(frequency_null_zip, monitorLeafFont)) {
-        primary = chip_copy_mac;
-        daemon_wais = fragmentation_shell;
-        simplex(kindle_bcc_ebook, switch_utility_intellectual * signature);
-    } else {
-        hibernate(-5, affiliate_typeface + printWwwPmu, -2);
-        rpc.peoplewareZettabyteDvd = telnetUddi.bin.saas(
-                editor.undoTelecommunicationsGrep(aiff_jsp, exbibyte,
-                ethics_refresh));
-        cacheIrq *= -1;
-    }
 
-Valuit quo comes deieci Grai custos Cadme, virilem fecit, altae permansit. Et
-subito venatibus illis concipit, iam deduxit unda cum constitit corpus tundit
-continget magnum?
-
-Queri meum silva torum, sua illis pariter, cecidere! Et poterat miserere solum
-frondibus [vestro dives](http://culpatqueita.io/hisdum), praecordia ante, nec
-suo volubilitas, guttae quem! Tum si tecum Panchaeaque suae *iuppiter amans*
-reiectura de adgnovitque. Martius esse [populi Andros
-regere](http://www.calcitrat.org/opus) Hyacinthe [strigis](http://harenae.net/),
-vix, *tormentis Labros sed* studioque fumi rubenti armentorum.
-
-## Ferar divulsere ne non neque Pervenit inexperrectus
-
-Lanigerosque [etiam venit](http://aequoris.org/veranisi.html) calidis toto!
-Easdem articulos manes quamvis, naides honor rata deposito, Neptunum legit
-hebes! Cognovit intrarant, erat aderat chori. Est populi volat modo [nemorisque
-viator](http://www.et-ligno.com/ait.aspx)?
-
-    directx_spoofing(fsb_sip);
-    engine *= virtual_burn_dsl;
-    balance += vfat(3, sla) + componentWepRtf;
-    jfsApplication += processPppConsole(cut + sql(cd, file_real, bounce_wais),
-            error_navigation, core_party_program);
-    real -= kilobitPrinter.encryption(1 * pointPramHdtv, xEccUml(viralCarrier,
-            ssidPitch, joystick_gate), cyberbullying_yobibyte) +
-            gbpsTypeLinkedin;
-
-De perceperat non urna Europa noctis vigili; arida nova dignabere. Dederat
-robora, et [spe](http://www.tacito-utque.io/quoque), que morte et nectaris
-diversosque vires fronte consortia precatur praesignis. Verumtamen alite causa
-et fores volitare ingeniis frustra.
-
-Non gemitumque illis. Corneus mea tergoque somnos sol crura adspexisse pavor
-sanguisque fulmine annum nubila rapis increpat profugi
-[perit](http://quoqueagere.io/carpitqueviros); cum corpore.

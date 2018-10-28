@@ -1,7 +1,7 @@
 # Software developing tips for RF engineer
 ## Overviews
 
-For RF engineers to study both hard-wired and software-defined,  
+For RF engineers to study both hard-wired and software-defined,
 we support your long-range navigations about below:
 
 * AI
@@ -15,14 +15,16 @@ Get well inspired, and good luck for your project!!
 ## Guide Book 
 
 * Python and Django
-* OSMC
+* OSMC on Raspberry Pi
 * ARM and Accelerator
 * OpenRISC
 * SDR as Cognitive machines
 
-## Appendix 
+## Appendix
 
 * Quick reference for Web design(Bootstrap and w3school) 
+* RLT-SDR and LuaRadio
+* radio communicaiton technology(principles and applications) for beginners 
 
 ## Our projects
 

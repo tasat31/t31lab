@@ -1,24 +1,28 @@
-# Python and Django for IoT Solutions
+# OSMC on Raspberry Pi
 ## Overviews
 
-A lot of IoT's prevailing on the Web all over the world, 
-it is great deal to learn Web framework system and you can achieve:
+OSMC is a free and open source media center, operating on Raspberry Pi.
 
-* Rapid prototyping
-* Saving developing time
+The user interface is designed as frame buffer application, and end users can achieve easy accesibility.
+We intend to use OSMC as a graphical front-end of IoT and AI output.
 
+Not only processing engine or algorism, but also beautiful and tasty man-machine interface is essential towards next society.
+The reason is clear, so many people, engineers and not-engineer will access the assets of IoT and AI
+that user-friendly interface is inevitable. 
+
+We think OSMC is best solution for such purpose.
 
 ## Guide Book 
 
-1. Setting up
+1. Install and Setting
    1. 
    2. 
 
-2. Coding
+2. Design and Coding
    1. 
    2. 
 
-3. Debug
+3. Develop and Debug
    1. 
    2. 
 
@@ -29,8 +33,9 @@ it is great deal to learn Web framework system and you can achieve:
 ## Appendix 
 
 
-## Reference 
-
+## Reference
+[OSMC](https://osmc.tv/)
+[Dual Boot: Rune | OSMC (Pi2, Pi3)](https://github.com/rern/RPi2-3.Dual.Boot-Rune.OSMC)
 
 ## Our projects
 

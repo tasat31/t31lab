@@ -1,24 +1,26 @@
-# Python and Django for IoT Solutions
+# ARM and Accelerator
 ## Overviews
 
-A lot of IoT's prevailing on the Web all over the world, 
-it is great deal to learn Web framework system and you can achieve:
+ARM architecture provides simple instrunction set and processing rapidly through pipelines with relatively low frequency.
 
-* Rapid prototyping
-* Saving developing time
+Thanks to simple instrucnion set and pipeline processing, ARM can colaborate with accelerator, 
+and accelerator plays the role of more complex calculations.
 
+Large and convoluted matrices are resolved at one time, with ARM and accelerator combinated. 
+
+So It could be good deal in the field of AI applicaions, such as Convolutional Neural Network.
 
 ## Guide Book 
 
-1. Setting up
+1. Install and Setting
    1. 
    2. 
 
-2. Coding
+2. Design and Coding
    1. 
    2. 
 
-3. Debug
+3. Develop and Debug
    1. 
    2. 
 
