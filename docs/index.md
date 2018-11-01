@@ -15,7 +15,7 @@ Get well inspired, and good luck for your project!!
 ## Guide Book 
 
 * Python and Django
-* OSMC on Raspberry Pi
+* KODI on Raspberry Pi
 * ARM and Accelerator
 * OpenRISC
 * SDR as Cognitive machines

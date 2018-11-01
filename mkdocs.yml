@@ -18,7 +18,7 @@ pages:
   - Home: 'index.md'
   - 'Guide Book':
     - 'Python and Django'  : 'django/index.md'
-    - 'OSMC on Raspberry Pi'  : 'osmc/index.md'
+    - 'KODI on Raspberry Pi'  : 'kodi/index.md'
     - 'ARM and Accelerator' : 'armaccel/index.md'
     - 'Open Source CPU': 'openrisc/index.md'
     - 'SDR as Cognitive machines'     : 'sdr/index.md'
