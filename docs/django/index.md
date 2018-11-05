@@ -91,8 +91,9 @@ it is great deal to learn Web framework system and you can achieve:
 ## Appendix 
 
 
-## Reference 
+## Reference
 
+* [Javascript Tutorial(Exploring ES6)](http://exploringjs.com/es6/index.html#toc_ch_modules)
 
 ## Our projects
 
