@@ -3,7 +3,7 @@
 
 ARM architecture provides simple instrunction set and processing rapidly through pipelines with relatively low frequency.
 
-Thanks to simple instrucnion set and pipeline processing, ARM can colaborate with accelerator, 
+Thanks to simple instruction set and pipeline processing, ARM can colaborate with accelerator, 
 and accelerator plays the role of more complex calculations.
 
 Large and convoluted matrices are resolved at one time, with ARM and accelerator combinated. 

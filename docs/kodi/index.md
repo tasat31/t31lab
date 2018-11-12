@@ -3,8 +3,11 @@
 
 Kodi is a free and open source media center, operating on various platform.
 
-We are talking about embeded platform, and focusing on Raspberry Pi.
-The user interface is designed as frame buffer application, and end users can achieve easy accesibility.
+Kodi comforts you with tasty digital experiences and enriches your life.
+
+The digital experiences are provided not only in your living room, but also on the road trecking or on the board triping.
+So now, we are talking about embeded platform, and focusing on OSMC@Raspberry Pi.
+The user interface of OSMC is designed as frame buffer application, and end users can achieve easy accesibility.
 We intend to use Kodi as a graphical front-end of IoT and AI output.
 
 Not only processing engine or algorism, but also beautiful and tasty man-machine interface is essential towards next society.
