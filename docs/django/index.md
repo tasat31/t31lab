@@ -6,7 +6,20 @@ it is great deal to learn Web framework system and you can achieve:
 
 * Rapid prototyping
 * Saving developing time
+* So you can start up a new project on the fly
 
+This guide leads you to the developing life with Django and focuses on creating and manipulating the database models.
+Django is Web framework, powered by Python, and provides us with tremendous flexible and useful ways how we structure our models.
+
+Designing data structure is mentioned not only to Django, but also many other programing language, 
+However it is effective for projects to know how we structure our models with Django and Django model utitilities.
+
+I think, database relationship and serializing data is the keywords of this article.
+
+So I will explain inlineformset and dynamically add form of inlineformset on the frontend finally, 
+then discusing some approaches to IoT solutions.
+
+Let's learn it step by step!
 
 ## Guide Book 
 
@@ -29,6 +42,7 @@ it is great deal to learn Web framework system and you can achieve:
         * AWS
         * Sakura Sever
 
+    4. node.js and Webpack
 
 2. Design and Coding
 
@@ -89,11 +103,13 @@ it is great deal to learn Web framework system and you can achieve:
    2. 
 
 ## Appendix 
-
-
+A. Introduction of Frontend products
+   * [GoJs Interactive JavaScript Diagrams in HTML](https://gojs.net/latest/index.html)
+   
 ## Reference
 
 * [Real Python Tutorials](https://realpython.com/)
+* [Django Models Best Practices](https://wsvincent.com/django-models-best-practices/)
 * [Javascript Tutorial(Exploring ES6)](http://exploringjs.com/es6/index.html#toc_ch_modules)
 
 ## Our projects
