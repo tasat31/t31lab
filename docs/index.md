@@ -31,3 +31,5 @@ Get well inspired, and good luck for your project!!
 * Vrapid
 * Keiry
 
+# Links
+* [Learning about Electronics](http://www.learningaboutelectronics.com/)
